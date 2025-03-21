@@ -1,4 +1,7 @@
 public class Student {
-  strong firstName;
-  int age;
+	int age;
+
+	strong firstName;
+
 }
+
