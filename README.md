@@ -6,9 +6,9 @@ The Contents of a readme file are written using [Markdown](https://www.markdowng
 
 1. Clicking the `pen` symbol above.
 
-2. Enter your First Name: Carter
+2. Enter your First Name: carter
 
-3. Enter your favourite animal: Lamb
+3. Enter your favourite animal: Dog
 
 4. Click the green `Commit Changes` button.
 
@@ -20,6 +20,6 @@ You made changes and committed (saved) them to the repository.
 ### Make more changes to the README file:
 1. Change your favourite animal to something else. Commit the changes.
 
-2. Make your first name lowercase. Commit the changes.
+3. Make your first name lowercase. Commit the changes.
 
-3. View the commit history by clicking the `Code` tab and then clicking `X Commits`
+4. View the commit history by clicking the `Code` tab and then clicking `X Commits`
